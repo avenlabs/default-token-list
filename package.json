@@ -1,7 +1,7 @@
 {
   "name": "@avenlabs/default-token-list",
   "version": "2.0.0",
-  "description": "◦ The Avenlabs DEX default token list",
+  "description": "◦ The Uniswap default token list",
   "main": "build/uniswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/avenlabs/default-token-list.git"
+    "url": "git+https://github.com/Uniswap/default-token-list.git"
   },
   "keywords": [
     "uniswap",
