@@ -1,0 +1,99 @@
+[
+    {
+      "name": "Wrapped Lyzo",
+      "address": "0xd3e672304fa102142EC546cfBB9ae52eF4fFaE3b",
+      "symbol": "WLYz",
+      "decimals": 18,
+      "chainId": 131,
+      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "Uniswap",
+      "address": "0x100CAf5e623E1817ee85015265e687c96CF57716",
+      "symbol": "UNI",
+      "decimals": 18,
+      "chainId": 131,
+      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    },
+    {
+      "name": "Circle: USD",
+      "address": "0x675d653aFC71A433ca5586ed4d52e64b5FFFE787",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 131,
+      "logoURI": "https://cryptologos.cc/logos/usd-coin-usdc-logo.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0x9DD32D4F511996EFff334B6f4c1229757b963AA2",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 131,
+      "logoURI": "https://cryptologos.cc/logos/tether-usdt-logo.png"
+    }
+    ,
+    {
+      "name": "Chainlink",
+      "address": "0xdf557d6A80F6b999230ae130deb264D4520c1cFe",
+      "symbol": "LINK",
+      "decimals": 18,
+      "chainId": 131,
+      "logoURI": "https://cryptologos.cc/logos/chainlink-link-logo.png"
+    },
+    {
+      "name": "Yearn Finance",
+      "address": "0x21Bc7d444f5D5d3d4f9D825B398c59D39113897D",
+      "symbol": "YFI",
+      "decimals": 18,
+      "chainId": 131,
+      "logoURI": "https://cryptologos.cc/logos/yearn-finance-yfi-logo.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0xB05cbdb9A048A0D65DFB959b2406AdBB1f5ad59A",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 131,
+      "logoURI": "https://cryptologos.cc/logos/bitcoin-btc-logo.png"
+    },
+    {
+      "name": "Optimism",
+      "address": "0xBE99500D3cec1aDab48259E0B2a36b76C53862b2",
+      "symbol": "OP",
+      "decimals": 18,
+      "chainId": 131,
+      "logoURI": "https://cryptologos.cc/logos/optimism-ethereum-op-logo.png"
+    },
+    {
+      "name": "DAI Stable",
+      "address": "0xD127871a812d1D88C7c8Ce991c7cc2614f179750",
+      "symbol": "OP",
+      "decimals": 18,
+      "chainId": 131,
+      "logoURI": "https://cryptologos.cc/logos/multi-collateral-dai-dai-logo.png"
+    },
+    {
+      "name": "Injective",
+      "address": "0xf8420380613C7Fcc2e84AB3F26B3f84E4ec4BD44",
+      "symbol": "INJ",
+      "decimals": 18,
+      "chainId": 131,
+      "logoURI": "https://cryptologos.cc/logos/injective-inj-logo.png"
+    },
+    {
+      "name": "Frax Ether",
+      "address": "0x8e1c98be930685cE53DE34E91CDf2E46353e8A5b",
+      "symbol": "frxETH",
+      "decimals": 18,
+      "chainId": 131,
+      "logoURI": "https://cryptologos.cc/logos/frax-finance-frax-ether-frxeth-logo.png"
+    },
+    {
+      "name": "Donaswap",
+      "address": "0xb44DFD33a02DD87a5A16544F39391deC8DC235a0",
+      "symbol": "Dona",
+      "decimals": 9,
+      "chainId": 131,
+      "logoURI": "https://www.donaswap.com/images/addedImages/donaswap.png"
+    }
+  ]
